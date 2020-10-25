@@ -1,0 +1,1 @@
+./scripts/docker-build.sh && ./scripts/docker-run.sh

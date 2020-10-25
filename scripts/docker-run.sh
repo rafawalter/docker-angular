@@ -1,0 +1,1 @@
+docker run --name docker-angular-container -v ${PWD}:/app --rm docker-angular-image 
